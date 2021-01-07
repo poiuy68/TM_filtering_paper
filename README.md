@@ -31,6 +31,7 @@ And repeat for another file (make sure you change the directory).
 
 The output will be a CSV file with I as the information content for features.
 
+There are two example output files listed in the folder.
 
 ## Authors 
 * **Ziyou Ren** - *Bioinformatician* - [the University of Chicago](https://poiuy68.github.io/)
