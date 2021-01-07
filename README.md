@@ -87,9 +87,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ziyou Ren** - *Phd student in Bioinformatics* - [Northwestern University](https://amaral.northwestern.edu/people/ren/)
+* **
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/poiuy68/TM_filtering_paper/commits) who participated in this project.
 
 ## License
 
