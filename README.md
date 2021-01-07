@@ -11,12 +11,12 @@ Single cell RNA sequencing (scRNA-seq) technologies promise to enable the quanti
 Please install all required packages listed in python_requirement.txt files using either pip or conda
 
 ```
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 ```
 or
 
 ```
-conda install -r requirement.txt
+conda install -r requirements.txt
 ```
 
 ### Running the code
